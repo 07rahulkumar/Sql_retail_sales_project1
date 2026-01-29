@@ -212,12 +212,4 @@ This project demonstrates how SQL can be used end-to-end for retail data analysi
 
 ---
 
-## Author
-
-**Zero Analyst**  
-A SQL-focused data analytics project created for learning, practice, and portfolio demonstration.
-
----
-
-⭐ If you find this project useful, feel free to explore, modify, and build upon it.
 
